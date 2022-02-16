@@ -1,6 +1,6 @@
 # AUD_2021-22
 
-Gruppe
+## Gruppe
 - Erik Neulinger
 - Paul Watzenböck
 - Moritz Hackenbuchner
