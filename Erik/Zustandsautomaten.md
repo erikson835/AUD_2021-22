@@ -1,1 +1,1 @@
-#Zustandsautomaten - Erik Neulinger
+Zustandsautomaten - Erik Neulinger
