@@ -5,3 +5,6 @@ Zustandsautomaten - Erik Neulinger
 
 02.03.2022
    - Zustandsautomaten.docx angefangen (Allgemein, Zustand, Zustandsübergang, Aktionen, Darstellung)
+
+09.03.2022
+   - Zustandsautomaten.docx weiter gemacht (Klassifizierung, Logik des EA, Optimierung, Homing-Folgen und                                             UIO-Folgen, Implementierung)
