@@ -4,4 +4,7 @@ UML Use-Cases
   -Themengebiete vergeben.
 
 09.03.2022
-  -Word Dokument mit den Grundlagen erstellt
+  -Word Dokument mit den Grundlagen erstellt.
+  
+16.03.2022
+  -PPT erstellt und ein Bsp mit Lösung herausgesucht.
