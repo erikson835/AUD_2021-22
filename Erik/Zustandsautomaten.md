@@ -11,3 +11,8 @@ Zustandsautomaten - Erik Neulinger
 
 16.03.2022
    - PowerPoint erstellen (Folien mit Text & Bilder befüllen)
+
+16 & 17.04.2022
+   - PowerPoint fertigstellen
+   - Word fertigstellen
+   - Hausübung suchen
