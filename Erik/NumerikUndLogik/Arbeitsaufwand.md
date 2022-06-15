@@ -8,5 +8,8 @@ Fuzzy Logik - Erik Neulinger
    - über Fuzzy Logik recherchieren
 
 08.06.2022
-   - mit der PowerPoint beginnen (Folien: Titel, Inhalt, Beispiel, Definition, Fuzzy Sets, Zugehörigkeitsfunktionen, Einsatzbereiche, Quellen)
+   - mit der PowerPoint beginnen
    - weitere Dinge über die Fuzzy Logik recherchieren (z.B. Beispiel, bessere Erklärungen)
+
+15.06.2022
+   - PowerPoint weiterarbeiten
