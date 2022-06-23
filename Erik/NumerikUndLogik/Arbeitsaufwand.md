@@ -16,3 +16,4 @@ Fuzzy Logik - Erik Neulinger
 
 23.06.2022
    - PowerPoint erweitern und fertig machen
+   - nach stundenlanger und verzweifelter Suche leider kein Beispiel als Hausübung gefunden
