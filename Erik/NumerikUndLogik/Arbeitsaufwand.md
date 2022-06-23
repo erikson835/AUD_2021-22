@@ -13,3 +13,6 @@ Fuzzy Logik - Erik Neulinger
 
 15.06.2022
    - PowerPoint weiterarbeiten
+
+23.06.2022
+   - PowerPoint erweitern und fertig machen
